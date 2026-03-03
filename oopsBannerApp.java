@@ -4,7 +4,7 @@
     }
 }*/
 
-public class oopsBannerApp {
+/*public class oopsBannerApp {
     public static void main(String[] args) {
 
         System.out.println("      ***      ***      *****       *****      ");
@@ -16,4 +16,5 @@ public class oopsBannerApp {
         System.out.println("      ***      ***     **        *****         ");
 
     }
-}
+}*/
+
